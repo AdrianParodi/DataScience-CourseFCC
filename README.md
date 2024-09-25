@@ -1,8 +1,11 @@
 # Proyectos del curso "Data Analysis with Python" de FreeCodeCamp
 
-![ES](https://img.shields.io/badge/lang-es-yellow.svg) [Leer en Español](#español) 
+![ES](https://img.shields.io/badge/lang-es-yellow.svg) [Leer en Español](## Version en español)
+
 ![EN](https://img.shields.io/badge/lang-en-blue.svg) [Read in English](#english)
 
+
+## Version en español
 Para obtener el **[certificado del curso](https://www.freecodecamp.org/certification/fcc1a476257-b22f-431e-817c-ac0f74fc4b6f/data-analysis-with-python-v7)**, se completaron los siguientes proyectos:
 
 1. Mean-Variance-Standard Deviation Calculator
