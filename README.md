@@ -19,8 +19,8 @@ Cada proyecto fue desarrollado utilizando Python y Jupyter Notebook.
 * scipy
 
 
-  <br>
-  <br>
+<br>
+<br>
   
 
 ![ES](https://img.shields.io/badge/lang-es-yellow.svg) [Leer en Español](#proyectos-del-curso-data-analysis-with-python-de-freecodecamp)
