@@ -18,6 +18,8 @@ Cada proyecto fue desarrollado utilizando Python y Jupyter Notebook.
 * matplotlib
 * scipy
 
+  
+
 ![ES](https://img.shields.io/badge/lang-es-yellow.svg) [Leer en Español](#proyectos-del-curso-data-analysis-with-python-de-freecodecamp)
 ## Projects from the FreeCodeCamp course 'Data Analysis with Python'
 To obtain the **[course certificate](https://www.freecodecamp.org/certification/fcc1a476257-b22f-431e-817c-ac0f74fc4b6f/data-analysis-with-python-v7)**, the following projects were completed:
