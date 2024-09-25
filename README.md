@@ -1,6 +1,6 @@
 # Proyectos del curso "Data Analysis with Python" de Free Code Camp
 
-Para obtener el certificado del curso, se completaron los siguientes proyectos:
+Para obtener el **[certificado del curso](https://www.freecodecamp.org/certification/fcc1a476257-b22f-431e-817c-ac0f74fc4b6f/data-analysis-with-python-v7)**, se completaron los siguientes proyectos:
 
 1. Mean-Variance-Standard Deviation Calculator
 2. Demographic Data Analyzer
