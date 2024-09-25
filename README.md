@@ -1,6 +1,8 @@
 ![EN](https://img.shields.io/badge/lang-en-blue.svg) [Read in English](#projects-from-the-freecodecamp-course-data-analysis-with-python)
 ## Proyectos del curso "Data Analysis with Python" de FreeCodeCamp
-Para obtener el <a href="https://www.freecodecamp.org/certification/fcc1a476257-b22f-431e-817c-ac0f74fc4b6f/data-analysis-with-python-v7" target="_blank">certificado del curso</a>, se completaron los siguientes proyectos:
+Para obtener el **<a href="https://www.freecodecamp.org/certification/fcc1a476257-b22f-431e-817c-ac0f74fc4b6f/data-analysis-with-python-v7" target="_blank">certificado del curso</a>**, se completaron los siguientes proyectos:
+
+Para obtener el **<a href="https://www.freecodecamp.org/certification/fcc1a476257-b22f-431e-817c-ac0f74fc4b6f/data-analysis-with-python-v7" target="_blank">certificado del curso</a>**, se completaron los siguientes proyectos:
 
 1. Mean-Variance-Standard Deviation Calculator
 2. Demographic Data Analyzer
