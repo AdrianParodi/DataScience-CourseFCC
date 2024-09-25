@@ -1,5 +1,5 @@
 ![EN](https://img.shields.io/badge/lang-en-blue.svg) [Read in English](#projects-from-the-freecodecamp-course-data-analysis-with-python)
-# Proyectos del curso "Data Analysis with Python" de FreeCodeCamp
+## Proyectos del curso "Data Analysis with Python" de FreeCodeCamp
 Para obtener el **[certificado del curso](https://www.freecodecamp.org/certification/fcc1a476257-b22f-431e-817c-ac0f74fc4b6f/data-analysis-with-python-v7)**, se completaron los siguientes proyectos:
 
 1. Mean-Variance-Standard Deviation Calculator
@@ -11,7 +11,7 @@ Para obtener el **[certificado del curso](https://www.freecodecamp.org/certifica
 Cada proyecto se presenta en una carpeta diferente, con los datos de partida cargados en archivos de formato .csv.
 Cada proyecto fue desarrollado utilizando Python y Jupyter Notebook.
 
-### Algunas librerías utilizadas
+#### Algunas librerías utilizadas
 * numpy
 * pandas
 * seaborn
@@ -37,7 +37,7 @@ To obtain the **[course certificate](https://www.freecodecamp.org/certification/
 Each project is presented in a different folder, with the input data loaded from .csv files.
 Each project was developed using Python and Jupyter Notebook.
 
-### Some libraries used
+#### Some libraries used
 * numpy
 * pandas
 * seaborn
